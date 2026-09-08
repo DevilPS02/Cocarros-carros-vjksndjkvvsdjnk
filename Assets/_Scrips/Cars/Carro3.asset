@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6c8ae648361f5cb43873e818933b8cc1, type: 3}
-  m_Name: Carro2
+  m_Name: Carro3
   m_EditorClassIdentifier: 
-  speed: 5000
-  brakeForce: 2500
-  angle: 60
-  carImage: {fileID: 21300000, guid: db33a876a02e3944193702b32930a06c, type: 3}
-  carName: Formula 1
-  carPrefab: {fileID: 1925311372393358144, guid: d6a54275d67bedc458852be4dd3ded17,
+  speed: 3000
+  brakeForce: 700
+  angle: 45
+  carImage: {fileID: 21300000, guid: 8d642a49c5ee63c4d84deda268cfdadb, type: 3}
+  carName: El buen pez gordo
+  carPrefab: {fileID: 6578196116779299456, guid: dc20529d92453ff49a24b7d58472b4e2,
     type: 3}

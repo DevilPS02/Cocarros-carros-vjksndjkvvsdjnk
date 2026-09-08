@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c8ae648361f5cb43873e818933b8cc1, type: 3}
   m_Name: Carro1
   m_EditorClassIdentifier: 
-  speed: 3000
+  speed: 3200
   brakeForce: 2500
   angle: 40
-  carImage: {fileID: 0}
-  carName: carro 1
-  carPrefab: {fileID: 7015587742732447888, guid: a40196fd5632216478c032d5519a6286,
+  carImage: {fileID: 21300000, guid: ee730119ca51e92439a1bbc59df0aa61, type: 3}
+  carName: marcianovich
+  carPrefab: {fileID: 1461161955152900235, guid: 9837a13fd7d6c594e88d3edc1f579c6b,
     type: 3}
